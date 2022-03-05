@@ -1,7 +1,8 @@
-# Capgemini-Desafio-2022
+# Desafio Capgemini 2022 - Turma B
 Repositório destinado ao desafio de programação proposto pela Academia Capgemini 2022.
+### 👩🏻📔 TURMA B:
 
-## 👩‍💻🚀 Executando o Projeto: 
+## 👩‍💻 Executando o Projeto: 
 
 
 ##### Para usar o projeto, siga estas etapas:
@@ -15,6 +16,8 @@ Logo após obter um clone do projeto, entre no diretório em que foi instalado o
 ``` cd .\Capgemini-Desafio-2022\ ```
 
 ```
-java .\src\Desafio1.java
-java .\src\Desafio2.java
+java .\src\TurmaB_Questao1.java
+java .\src\TurmaB_Questao2.java
+java .\src\TurmaB_Questao3.java
+
 ```
